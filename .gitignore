@@ -2,3 +2,5 @@ node_modules
 build 
 react-0.14.3
 .DS_Store
+package-lock.json
+
